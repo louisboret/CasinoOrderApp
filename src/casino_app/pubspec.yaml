@@ -1,0 +1,76 @@
+name: casino_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  local_auth: ^2.1.6
+  cupertino_icons: ^1.0.2
+  http: ^0.13.6
+  meta: ^1.8.0
+  provider: ^6.0.5
+  camera: ^0.10.5
+  badges: ^3.1.1
+  path: ^1.8.2 
+  path_provider: ^2.0.11
+  shared_preferences: ^2.1.1
+  flutter_native_splash: ^2.2.19
+  flutter_launcher_icons: ^0.13.1
+  flutter_animate: ^4.1.1+1
+  firebase_core: ^2.13.0
+  cloud_firestore: ^4.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/appicon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  
+
+flutter_native_splash:
+  color: '#11111f'
+  image: assets/images/logo.png
+  android_12:
+    image: assets/images/logo.png
+
+
+flutter:
+  assets: 
+    - assets/images/sunset.jpg
+    - assets/images/profempty.png
+    - assets/images/nemesis.jpg
+    - assets/images/gemsbonanza.webp
+    - assets/images/sweetbonanza.jpg
+    - assets/images/fruitbonanza.webp
+    - assets/images/gem1.png
+    - assets/images/gem2.png
+    - assets/images/gem3.png
+    - assets/images/gem5.png
+    - assets/images/gem6.png
+    - assets/images/gem7.png
+    - assets/images/gem8.png
+    - assets/images/gem9.png
+    - assets/images/gem10.png
+    - assets/images/gem11.png
+    - assets/images/gem12.png
+    - assets/images/gem13.png
+    - assets/images/logo.png
+    - assets/images/big-bonus.png
+  uses-material-design: true
+

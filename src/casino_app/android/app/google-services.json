@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1098252182568",
+    "project_id": "beerorder-decb4",
+    "storage_bucket": "beerorder-decb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098252182568:android:9cf8f8ea2a18d288fe011d",
+        "android_client_info": {
+          "package_name": "com.example.casino_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098252182568-0ck74d4m8kaults0p9pi34q9055k9jq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlPEtFFlwn7sy-MWxZwmaSmchqETvQak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098252182568-0ck74d4m8kaults0p9pi34q9055k9jq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098252182568-7aadl272gj09i8kv9m3cvnklurdknraf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.casinoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
