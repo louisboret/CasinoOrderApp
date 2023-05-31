@@ -4,7 +4,7 @@
 Mobile app (Android gericht) met complexe slotmachine mechanics gebaseerd op Sweet Bonanza
 
 
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/6345dfc0-7727-45e0-99c2-f1324d9e8f37.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/d5654582-cc8b-45c9-8e3a-0a9b1a79a515.jpg" width="150">
 <img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e57b82ac-8d2e-434c-8954-4558bb394479.jpg" width="150">
 <img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e863dcc5-ec29-4ae5-8ac5-23373105254f.jpg" width="150">
 <img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e0227472-eaa6-48a3-a822-bd1df7e8fa81.jpg" width="150">
@@ -12,6 +12,7 @@ Mobile app (Android gericht) met complexe slotmachine mechanics gebaseerd op Swe
 <img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/9ea2096e-ce5a-4674-82f2-25990c2b816f.jpg" width="150">
 <img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/de2c4a0f-5c8e-4d53-902c-16bab4889655.jpg" width="150">
 
+![image](https://github.com/louisboret/CasinoOrderApp/assets/91128851/d5654582-cc8b-45c9-8e3a-0a9b1a79a515)
 
 ## Extra info
 
