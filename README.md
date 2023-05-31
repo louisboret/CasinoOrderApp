@@ -5,14 +5,12 @@ Mobile app (Android gericht) met complexe slotmachine mechanics gebaseerd op Swe
 
 
 <img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/d5654582-cc8b-45c9-8e3a-0a9b1a79a515.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e57b82ac-8d2e-434c-8954-4558bb394479.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e863dcc5-ec29-4ae5-8ac5-23373105254f.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/e0227472-eaa6-48a3-a822-bd1df7e8fa81.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/9e80cc7a-c31c-4be5-83be-307e0078f0f7.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/9ea2096e-ce5a-4674-82f2-25990c2b816f.jpg" width="150">
-<img src="https://github.com/howest-gp-ipr/st-2223-2-d-ee-louisboret/assets/91128851/de2c4a0f-5c8e-4d53-902c-16bab4889655.jpg" width="150">
-
-![image](https://github.com/louisboret/CasinoOrderApp/assets/91128851/d5654582-cc8b-45c9-8e3a-0a9b1a79a515)
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/3e60924d-ad22-4c9d-85db-946adff680a7.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/ab522195-fd62-48c2-b37d-5beefeeb06e3.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/58b663df-2127-4d3c-a708-161312ba240c.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/44fe798c-741b-4a19-9e3f-d7826b25bf0b.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/a91d1c2d-0343-4b61-bee4-65370331cb81.jpg" width="150">
+<img src="https://github.com/louisboret/CasinoOrderApp/assets/91128851/f446775a-27b9-4776-83c5-398a7323341d.jpg" width="150">
 
 ## Extra info
 
